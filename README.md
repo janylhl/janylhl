@@ -3,8 +3,10 @@
 🎯 **Data Scientist / Machine Learning Engineer** avec ~4 ans d’expérience dans le **forecasting, le deep learning** et la **computer vision**.  
 Je conçois des modèles de bout en bout — de l’exploration et la modélisation jusqu’au **déploiement sur Databricks, Azure ou Docker**.
 
-🔭 Je travaille en ce moment sur du **forecasting multivarié** (prévision multi-produits / multi-sites) chez **SoyHuCe | JAKALA** au profit d'un acteur de la grande distribution.  
-💡 Et je prépare un projet perso autour du **Marketing Mix Modeling (MMM)** — pour relier impact média et ventes grâce à la modélisation causale et bayésienne.
+---
+
+🔭 **Actuellement :** je travaille sur du **forecasting multivarié** (prévision multi-produits / multi-sites) chez **SoyHuCe | JAKALA**.  
+💡 **À côté :** je développe un projet perso de **Marketing Mix Modeling (MMM)** — pour relier impact média et ventes via la modélisation causale et bayésienne.
 
 ---
 
