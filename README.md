@@ -1,7 +1,10 @@
 # 👋 Salut, moi c’est Jany Lahlouh
 
 🎯 **Data Scientist / Machine Learning Engineer** avec ~4 ans d’expérience dans le **forecasting, le deep learning** et la **computer vision**.  
-Je conçois des modèles de bout en bout — de l’exploration et la modélisation jusqu’au **déploiement sur Databricks, Azure ou Docker** — avec une forte appétence pour les **LLM et les AI Agents**.
+Je conçois des modèles de bout en bout — de l’exploration et la modélisation jusqu’au **déploiement sur Databricks, Azure ou Docker**.
+
+🔭 Je travaille en ce moment sur du **forecasting multivarié** (prévision multi-produits / multi-sites) chez **SoyHuCe | JAKALA** au profit d'un acteur de la grande distribution.  
+💡 Et je prépare un projet perso autour du **Marketing Mix Modeling (MMM)** — pour relier impact média et ventes grâce à la modélisation causale et bayésienne.
 
 ---
 
@@ -9,53 +12,10 @@ Je conçois des modèles de bout en bout — de l’exploration et la modélisat
 
 - 🧩 **Forecasting multivarié** : GBDT, RNN, TCN, Chronos/LoRA  
 - 🩻 **Computer vision** : segmentation 3D (UNet, BYOL, YOLO, TotalSegmentator)  
-- 📈 **Retail analytics** : élasticité-prix, séries temporelles, pricing dynamique  
+- 📈 **Retail analytics and modeling** : élasticité-prix, pricing dynamique, marketing Mix modeling (MMM)
 - 🌾 **Agritech** : détection d’événements (vêlage, chaleur) sur signaux multivariés  
 - 🤖 **LLM / Agents IA** : LangChain, LangGraph, Smolagent  
 
----
-
-## ⚙️ Stack technique
-
-**Langages** : Python (principal), SQL, Java, C++  
-**Librairies clés** :  
-`numpy`, `pandas`, `pyspark`, `scipy`, `opencv`, `pyWavelets`,  
-`scikit-learn`, `xgboost`, `lightgbm`, `pytorch`, `tensorflow`,  
-`pytorch-lightning`, `transformers`, `mlflow`, `plotly`, `streamlit`  
-
-**Infra / MLOps** : Databricks, GCP, Azure, Docker, GitHub/GitLab  
-**Tracking & versioning** : MLflow, DVC  
-**Data viz** : Plotly, Seaborn, Dash  
-
----
-
-## 🚀 Expériences marquantes
-
-- **SoyHuCe | JAKALA** — *Data Scientist*  
-  → Victoire en hackathon et projet de forecasting multi-produits multi-sites (RNN, TCN, Chronos)  
-  → Études de pricing dynamique et segmentation d’images médicales 3D  
-  → Encadrement de data scientists et structuration du workflow ML  
-
-- **DGA MI** — *Data Scientist*  
-  → Détection et classification d’images haute résolution (YOLO, BYOL)  
-  → Apprentissage auto-supervisé, XGBoost, clustering (KMeans, DBSCAN, UMAP)  
-  → Démonstrateur Streamlit + déploiement Docker  
-
-- **MBDA** — *Data Scientist*  
-  → Télémesure radar et estimation de direction d’arrivée (LSTM, UNet)  
-
----
-
-## 🎓 Formation & Certifications
-
-🎓 **ENSTA Paris** — Cycle ingénieur en Systèmes d’observation et IA  
-📜 **Stanford Online** — Machine Learning (Andrew Ng)  
-🏅 **Certifications** :  
-- Databricks Professional ML Engineer *(sept. 2025)*  
-- GCP Professional ML Engineer *(janv. 2025)*  
-- Hugging Face AI Agent Course *(sept. 2025)*  
-
----
 
 ## 🌿 À propos
 
@@ -72,10 +32,11 @@ Quand je ne code pas, je prépare un **trail de 80 km** ou je **dessine sur des 
 
 ---
 
-### 📊 Stats GitHub
+<!-- Stats -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=janylahlouh&show_icons=true&theme=default&cache_seconds=7200)
 
-![Jany's GitHub stats](https://github-readme-stats.vercel.app/api?username=janylahlouh&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janylahlouh&layout=compact)
+<!-- Top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janylahlouh&layout=compact&cache_seconds=7200)
 
 ---
 
