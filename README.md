@@ -8,6 +8,7 @@ Je conçois des modèles de bout en bout — de l’exploration et la modélisat
 🔭 **Actuellement :** je travaille sur du **forecasting multivarié** (prévision multi-produits / multi-sites) chez **SoyHuCe | JAKALA**.  
 💡 **À côté :** je développe un projet perso de **Marketing Mix Modeling (MMM)** — pour relier impact média et ventes via la modélisation causale et bayésienne.
 🚀 Et ces deux sujets n'attends que de pouvoir s'interconnecter.
+
 ---
 
 ## 🧠 Domaines de prédilection
