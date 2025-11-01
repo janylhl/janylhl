@@ -21,7 +21,7 @@ Je conçois des modèles de bout en bout — de l’exploration et la modélisat
 
 ## 🌿 À propos
 
-Basé à **Bordeaux**, j’aime explorer la frontière entre **science des données et créativité**.  
+Basé à **Bordeaux** (mais disponible partout), j’aime explorer la frontière entre **science des données et créativité**.  
 Quand je ne code pas, je prépare un **trail de 80 km** ou je **dessine sur des planches de surf** 🏄‍♂️  
 
 ---
